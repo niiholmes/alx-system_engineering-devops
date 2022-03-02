@@ -4,3 +4,4 @@
 3. the "ls -l" shell script lists the contents of a directory in a long format.
 4. the "ls -la" shell script will list all files in a directory including hidden files.
 5. the "ls -la -n" shell script will display contents of a file in a long format including hidden files anddisplay user and group IDs numerically.
+6. the "mkdir -p /tmp/my_first_directory"creates a directory in the folder /tmp.
