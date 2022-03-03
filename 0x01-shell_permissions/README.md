@@ -4,6 +4,4 @@
 3. File 3-new_owner changes ownership of the file hello to the user betty.
 4. File 4-empty creates an empty file called hello.
 5. File 5-execute adds execute permissions to owner of file hello.
-6. File 6-multiple_permissions give execute permission to the owner and the group owner, and read permission to other users,     to the file hello.
-7. File 7-everybody gives execution permission to the owner, group owner and other users to the file hello.
-8. File 8-James_Bond gives owner and group owner no permissions at all and all permissions to the other users.
+
