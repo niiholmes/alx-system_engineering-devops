@@ -4,3 +4,7 @@
 3. File 3-new_owner changes ownership of the file hello to the user betty.
 4. File 4-empty creates an empty file called hello.
 5. File 5-execute adds execute permissions to owner of file hello.
+<<<<<<< HEAD
+=======
+
+>>>>>>> f2aa7ccf010c406aad75ce6eba13125c8d2b4434
