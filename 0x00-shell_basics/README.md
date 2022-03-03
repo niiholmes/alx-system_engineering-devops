@@ -11,3 +11,4 @@
 10. the "cd -" shell script moves you to your previous directory from your current directory.
 11. the "ls -la . .. /boot" script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 12. the "file /tmp/iamafile" prints the type of file of iamafile in /tmp.
+13. "ln -s /bin/ls _ls_" creates symbolic link.
