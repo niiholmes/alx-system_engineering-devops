@@ -10,3 +10,4 @@
 9. File 9-duplicate_last_line is a script that duplicates the last line of the file iacta
 10. File 10-no_more_js is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. File 11-directories is a script that counts the number of directories and sub-directories in the current directory, includind hiddin files and excluding the  current and parent directories.
+12. File 12-newest_files is a script that displays the 10 newest files in the current directory.
